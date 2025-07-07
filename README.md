@@ -8,7 +8,7 @@
 #### Добавить конструкторы (какие нужны для удобства создания объектов, количество человек например можно случайно генерировать).
 -----
 #### Реализовать следующую иерархию наследования, в каждом дочернем классе только вызов родительского конструктора.
-![alt text](https://raw.githubusercontent.com/username/projectname/commit/img.png)
+![alt text](https://raw.githubusercontent.com/K1tsun4/Practice-MediaSoft/blob/lesson3/Снимок.PNG)
 -----
 #### Запретить создание объектов типа Room и ProRoom.
 -----
